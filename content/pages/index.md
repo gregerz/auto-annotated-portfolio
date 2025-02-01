@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: PLUSH PALS
+    title: '                PLUSH PALS'
     subtitle: the perfect place to find your new best friend
     styles:
       self:
