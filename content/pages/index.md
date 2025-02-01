@@ -80,6 +80,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: hot products
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
